@@ -34,18 +34,31 @@ WORK PLAN
 The technical specification was divided into 12 chapters, an additional task, API tests using Swagger, and conclusions and opinions of the entire group. Work on the project was divided among all members of the project team:
 
 Chapters 1 and 2. Home page/Login using the form.
+
 Chapter 3. Heading.
+
 Chapter 4. Home page.
+
 Chapter 5. “Categories” page.
+
 Chapter 6. “Add recipe” page.
+
 Chapter 7. “Favorite” page.
+
 Chapter 8. Selected recipe page.
+
 Chapter 9. “My recipes” page.
+
 Chapter 10. “Search” page
+
 Chapter 11. “Shopping list” page
+
 Chapter 12. Footer
+
 Additional task - motivational modal window.
+
 API tests using Swagger.
+
 Conclusions and suggestions.
 
 WORKING TOOLS
